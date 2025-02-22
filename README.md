@@ -6,7 +6,7 @@ pkg install git
 
 pkg install python-pip
 
-git clone https://github.com/senitbruh/Mechanotch.git
+git clone https://github.com/Tresehshs/Mechanotch.git
 
 cd Mechanotch
 
