@@ -6,9 +6,9 @@ pkg install git
 
 pkg install python-pip
 
-git clone https://github.com/senitbruh/grindsociety.git
+git clone https://github.com/senitbruh/Mechanotch.git
 
-cd grindsociety
+cd Mechanotch
 
 git pull
 
